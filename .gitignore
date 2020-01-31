@@ -9,6 +9,7 @@ cabal.sandbox.config
 cabal.config
 
 # Dirs
+dist-newstyle
 .cabal-sandbox
 dist
 vendor
@@ -36,3 +37,4 @@ tags
 
 # Certificates
 *.pem
+
